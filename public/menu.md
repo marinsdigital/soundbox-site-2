@@ -1,0 +1,4 @@
+---
+links:
+  - { label: "Produtos", href: "/" }
+---
