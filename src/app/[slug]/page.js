@@ -83,14 +83,15 @@ export default async function Product({ params }) {
                         {product.title.toUpperCase()}
                     </h1>
                 </div>
-                <div className="hidden md:block">
+                <div className="hidden md:block max-h-[450px] max-w-[450px]"
+                >
                     <Image
                         src={product.bannerCover}
                         alt={product.title}
                         width={450}
                         height={450}
                         priority
-                        className="object-contain transform"
+                        className="object-contain transform max-h-[450px] max-w-[450px]"
                     />
                 </div>
             </div>
