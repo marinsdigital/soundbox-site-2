@@ -1,11 +1,11 @@
 ---
 slug: "sub-impact-1200-ativa"
-title: "SUB IMPACT 1200 ATIVA"
+title: "SUB IMPACT 1200 PRO ATIVA"
 bannerBg: "/images/hero.webp"
 bannerCover: "/products/sub-impact-1200-ativa/banner.webp"
 
 variants:
-  - title: "SUB IMPACT 1200 ATIVA"
+  - title: "SUB IMPACT 1200 PRO ATIVA"
     images:
       - "/products/sub-impact-1200-ativa/var1a.webp"
       - "/products/sub-impact-1200-ativa/var2a.webp"

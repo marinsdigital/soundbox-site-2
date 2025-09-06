@@ -1,11 +1,11 @@
 ---
 slug: "vl-4-4-ativa"
-title: "VL 4.4 ATIVA"
+title: "VL 4.4"
 bannerBg: "/images/hero.webp"
 bannerCover: "/products/vl-4-4-ativa/banner.webp"
 
 variants:
-  - title: "VL 4.4 ATIVA"
+  - title: "VL 4.4"
     images:
       - "/products/vl-4-4-ativa/var1a.webp"
       - "/products/vl-4-4-ativa/var1b.webp"

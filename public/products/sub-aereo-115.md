@@ -1,11 +1,11 @@
 ---
 slug: "sub-aereo-115"
-title: "SUB AÉREO 115 PRO"
+title: "SUB AÉREO 115 PRO ATIVO"
 bannerBg: "/images/hero.webp"
 bannerCover: "/products/sub-aereo-115/banner.webp"
 
 variants:
-  - title: "SUB AÉREO 115 PRO ATIVA"
+  - title: "SUB AÉREO 115 PRO ATIVO"
     images:
       - "/products/sub-aereo-115/var1a.webp"
       - "/products/sub-aereo-115/var1b.webp"

@@ -1,11 +1,11 @@
 ---
 slug: "sub-218-dupla-ativa"
-title: "SUB 218 DUPLA ATIVA"
+title: "SUB 218 DUPLA"
 bannerBg: "/images/hero.webp"
 bannerCover: "/products/sub-218-dupla-ativa/banner.webp"
 
 variants:
-  - title: "SUB 218 DUPLA ATIVA"
+  - title: "SUB 218 DUPLA"
     images:
       - "/products/sub-218-dupla-ativa/var1a.webp"
       - "/products/sub-218-dupla-ativa/var1b.webp"

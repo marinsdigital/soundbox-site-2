@@ -1,11 +1,11 @@
 ---
 slug: "sb-26-ativa"
-title: "SB 2.6 ATIVA"
+title: "SB 2.6"
 bannerBg: "/images/hero.webp"
 bannerCover: "/products/sb-26-ativa/banner.webp"
 
 variants:
-  - title: "SB 2.6 ATIVA"
+  - title: "SB 2.6"
     images:
       - "/products/sb-26-ativa/var1a.webp"
       - "/products/sb-26-ativa/var2a.webp"
