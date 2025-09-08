@@ -8,7 +8,7 @@ variants:
   - title: "VL 8.4"
     images:
       - "/products/vl-8-4-ativa/var1a.webp"
-      - "/products/vl-8-4-ativa/var1b.webp"
+      - "/products/vl-8-4-ativa/banner.webp"
       - "/products/vl-8-4-ativa/var2a.webp"
     dimensions:
       - { label: "ALTURA", value: "1200 MM" }
